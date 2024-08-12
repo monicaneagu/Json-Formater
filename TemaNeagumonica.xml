@@ -1,0 +1,37 @@
+<sirpersoane>
+><unicid1> Unic id: 123
+<name>Bradley Cooper</name>
+<city>Bucharest</city>
+<adress> 
+<strada> Strada: Bulevardul Decebal</strada>  
+<numar> nr. 101 </numar>  <bloc> bl 8 </bloc> <apartament> ap 1 </apartament> </adress>
+<contact> <Phonenumber> Phone number:123456789 </Phonenumber> <e-mail> e-mail: bradleycooper12@gmail.com</e-mail> <skype> skype: bradleyc1</skype> </contact> </unicid1>
+<unicid2> Unic id: 124
+<name>Cillian Murphy</name>
+<city>Bucharest</city>
+<adress> 
+<strada> Strada: Strada FLorilor</strada>  
+<numar> nr. 203 </numar>  <bloc> bl 23 </bloc> <apartament> ap 101 </apartament> </adress>
+<contact> <Phonenumber> Phone number: 987654321 </Phonenumber> <e-mail> e-mail: cillian.murphy@gmail.com</e-mail> <skype>skype: cillianm12</skype> </contact> </unicid2>
+<unicid3> Unic id: 125
+<name>Jason Statham</name>
+<city>Bucharest</city>
+<adress> 
+<strada> Strada: Aleea Castanilor </strada>  
+<numar> nr. 279 </numar>  <bloc> bl 124 B </bloc> <apartament> ap 3 </apartament> </adress>
+<contact> <Phonenumber> Phone number: 123654987 </Phonenumber> <e-mail> e-mail: jassyst@yahoo.com</e-mail> <skype> skype: jasonst26 </skype> </contact> </unicid3>
+<unicid4> Unic id 126
+<name>Margot Robbie</name>
+<city>Bucharest</city>
+<adress> 
+<strada> Strada: Gheorghe Petrascu</strada>  
+<numar> nr. 103 </numar>  <bloc> bl M12 </bloc> <apartament> ap 12 </apartament> </adress>
+<contact> <Phonenumber> Phone number: 123459876 </Phonenumber> <e-mail> e-mail: margotrobbie1@gmail.com</e-mail> <skype>skype: r.margot1</skype> </contact> </unicid4>
+<unicid5> Unic id 127
+ <name>Will Smith</name>
+<city>Bucharest</city>
+<adress> 
+<strada> Strada: Drumul Fermei </strada>  
+<numar> nr. 111B </numar>  <bloc> bl 8 </bloc> <apartament> ap 10 </apartament> </adress>
+<contact> <Phonenumber> Phone number: 9876509876 </Phonenumber> <e-mail> e-mail: will_smith2@yahoo.com</e-mail> <skype>skype: wills87  </skype> </contact> </unicid5>
+</sirpersoane>
